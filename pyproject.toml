@@ -21,3 +21,6 @@ license-files = ["LICENSE"]
 [project.urls]
 Homepage = "https://github.com/thaiminh0911/sakapi-py/"
 Issues = "https://github.com/thaiminh0911/sakapi-py/issues"
+
+[tool.pdm]
+package-dir = "src"
